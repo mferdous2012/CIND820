@@ -24,11 +24,11 @@ The goal of this project is to determine whether a given news headline is **real
 fake-news-detection-headlines/
 ├── data/                        # Raw data files (Fake.csv, True.csv)
 ├── notebooks/                  # Jupyter Notebooks by stage
-│   ├── 01_data_preprocessing.ipynb
-│   └── 02_modeling_logreg_svm_rf.ipynb
+│   ├── EDA.ipynb
+│   └── man.ipynb
 ├── reports/                    # Visuals and exported reports
-│   ├── milestone3_summary.pdf or .html
-│   └── EDA_visuals/
+│   ├── report.pdf or .html
+│   └── visuals/
 ├── README.md                   # Project description and instructions
 ├── requirements.txt            # List of dependencies
 ```
@@ -66,8 +66,8 @@ To run the notebooks:
 
 1. Clone the repository  
    ```
-   git clone https://github.com/yourusername/fake-news-detection-headlines.git
-   cd fake-news-detection-headlines
+   git clone https://github.com/mferdous2012/CIND820.git
+   cd CIND820
    ```
 
 2. Install dependencies  
@@ -92,8 +92,8 @@ A 5-minute walkthrough video presenting the code and initial results is availabl
 ## ✍️ Authors and Acknowledgments
 
 - **Author**: Md Mahmud Ferdous  
-- **Supervisor**: Dr. Tamer Elsayed  
-- **Course**: CIND820 – Applied Artificial Intelligence  
+- **Supervisor**: Ceni Babaoglu  
+- **Course**: CIND820 DAH - Big Data Analytics Project  
 - **Institution**: Toronto Metropolitan University
 
 ---
