@@ -27,7 +27,7 @@ fake-news-detection-headlines/
 │   ├── EDA.ipynb
 │   └── man.ipynb
 ├── reports/                    # Visuals and exported reports
-│   ├── report.pdf or .html
+│   ├── main.pdf
 │   └── visuals/
 ├── README.md                   # Project description and instructions
 ├── requirements.txt            # List of dependencies
