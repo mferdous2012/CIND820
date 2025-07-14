@@ -27,7 +27,7 @@ fake-news-detection-headlines/
 │   ├── EDA.ipynb
 │   └── man.ipynb
 ├── reports/                    # Visuals and exported reports
-│   ├── main.pdf
+│   ├── report.pdf
 │   └── visuals/
 ├── README.md                   # Project description and instructions
 ├── requirements.txt            # List of dependencies
@@ -85,7 +85,7 @@ To run the notebooks:
 ## 🎥 Video Walkthrough
 
 A 5-minute walkthrough video presenting the code and initial results is available here:  
-👉 [Watch the Video](https://your-link-to-video.com)
+👉 [Watch the Video](https://www.loom.com/share/26fca3dabd7a4213971ee54c2af39088)
 
 ---
 
